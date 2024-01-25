@@ -1,8 +1,6 @@
-- 👋  Hi, I’m @YoadBenNun
-- 👀  I am interested in everything related to music and sound, creativity, data, technology, economy, wellness, personal growth, and human behavior.
-- 🌱  Currently, I'm learning data science, which is a new field for me since I have a creative background, but I'm excited to see where it will lead me.
-- 💞️  My preferred collaboration would be on music and data-oriented project, but I am open to other suggestions.
-- 📫  you can find me [Here (LinkedIn)](https://www.linkedin.com/in/yoad-ben-nun/), [Here (Website)](https://www.yoadbennun.com) and [Here (Mail)](Mailto:mastering@yoadbennun.com)
+I'm Yoad Ben Nun, a dedicated Full-Stack Data Engineer with a diverse background blending creativity with robust technical expertise. Passionate about music, sound, innovation, data, technology, economics, wellness, and human behavior.
+
+Transitioning from a creative background into the analytical realm, I've embraced data science with enthusiasm, applying my skills in developing and managing data pipelines, BI dashboards, and analytics. My work significantly enhances decision-making processes, driving precise data insights and innovative solutions across various industries including SaaS, Retail, Wellness and Tech.
 
 <!---
 YoadBenNun/YoadBenNun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
